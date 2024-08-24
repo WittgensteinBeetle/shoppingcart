@@ -5,10 +5,7 @@ Project for building a small shopping cart API endpoint for json payloads
 
 ## Features 
 
-##### Calculate itemized list of items in shopping cart 
-* optional tax
-* grand total
-* subtotal
+##### Calculate itemized list of grand and subtotal with optional inclusion of tax on items in shopping cart 
 
 ##### Remove/add items to cart 
 
